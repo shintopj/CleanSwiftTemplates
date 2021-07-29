@@ -3,8 +3,6 @@
 //  ___PROJECTNAME___
 //
 //  Created by ___FULLUSERNAME___ on ___DATE___.
-//  Copyright (c) ___YEAR___ ___ORGANIZATIONNAME___. All rights reserved.
-//
 //
 
 @testable import ___PROJECTNAMEASIDENTIFIER___
@@ -62,7 +60,7 @@ class ___VARIABLE_sceneName___ViewControllerTests: XCTestCase {
 
         let dataStore: ___VARIABLE_sceneName___DataStore? = nil
 
-        func routeToSomewhere() {
+        func routeToNext() {
             //...
         }
     }

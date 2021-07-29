@@ -3,8 +3,6 @@
 //  ___PROJECTNAME___
 //
 //  Created by ___FULLUSERNAME___ on ___DATE___.
-//  Copyright (c) ___YEAR___ ___ORGANIZATIONNAME___. All rights reserved.
-//
 //
 
 @testable import ___PROJECTNAMEASIDENTIFIER___
@@ -55,7 +53,7 @@ class ___VARIABLE_sceneName___InteractorTests: XCTestCase {
 
     class ___VARIABLE_sceneName___WorkerProtocolMock: ___VARIABLE_sceneName___WorkerProtocol {
 
-        func doSomeWork() {
+        func fetch() {
             //...
         }
     }
